@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c4eed49a94eb534b880540a62bcfa26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - historyUIPanel: {fileID: 4921352216603961944, guid: 8b0475a460905764e9964401789cdb4b, type: 3}
+  - historyText: {instanceID: 0}
+  - closeButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
