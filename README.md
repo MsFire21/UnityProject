@@ -1,6 +1,9 @@
 Whispers of the sky 
+
 DESIGN DOCUMENT
+
 by Anhelina Khavena 
+
 
 Game Summary
 
@@ -52,7 +55,9 @@ Aim at the rope and press 'E' to descend. Press 'Space' to detach.
 
 
 Links:
+
 Assets used -
+
 https://assetstore.unity.com/publishers/44390
 https://assetstore.unity.com/publishers/42095
 https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-water-texture-153577
@@ -60,6 +65,12 @@ https://assetstore.unity.com/packages/2d/gui/hyper-casual-mobile-gui-268659
 https://assetstore.unity.com/packages/3d/environments/sci-fi/vast-outer-space-38913
 https://assetstore.unity.com/packages/3d/handpainted-keys-42044
 https://assetstore.unity.com/packages/3d/props/padlock-231052
+
+Music -
+
+https://assetstore.unity.com/packages/audio/music/lo-fi-chillout-music-for-games-213270
+
+
 
 
 
