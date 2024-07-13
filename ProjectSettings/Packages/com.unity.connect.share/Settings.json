@@ -4,7 +4,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"E:/newlife/games/umrueslinesrabotaet/WebGL Builds;C:/LVL BUILD;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"E:/newlife/games/WotS_TEB/WebGL Builds;E:/newlife/games/Build;E:/newlife/BuildWotS;E:/newlife/games/umrueslinesrabotaet/WebGL Builds;C:/LVL BUILD;;;;;\"}"
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",

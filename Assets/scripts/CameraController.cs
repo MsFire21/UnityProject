@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -11,6 +11,11 @@ public class CameraController : MonoBehaviour
 
     private void Update()
     {
+        if (PlayerManager.IsGamePaused())
+        {
+            return; 
+        }
+
         float mouseX = Input.GetAxis("Mouse X");
         float mouseY = Input.GetAxis("Mouse Y");
         transform.parent.Rotate(Vector3.up * mouseX * sensitivity);
