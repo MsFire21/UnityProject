@@ -9,6 +9,10 @@ Game Summary
 
 Whispers of the Sky is an adventurous 3D game where players explore the surrounding game world, uncovering stories and solving puzzles.
 
+GDD
+
+https://docs.google.com/document/d/1xxWdqjek5kJps9Mo4J1GYwQjeQgMyo8InhOxQ2e_qm4/edit?usp=sharing
+
 
 Controls
 
